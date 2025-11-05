@@ -1,1 +1,1 @@
-# Menthality Team
+# Menthality Project
